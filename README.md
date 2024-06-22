@@ -8,6 +8,6 @@ Designed and Built with ReactJS, Material UI, RapidAPI, and Axios.
 
 ## Screenshots and demo
 
-![image](https://github.com/MohammedAdhil/nextjs-task/assets/91864779/fad62720-a058-46f1-9bc7-b88d56a35ae3)
+![image](https://github.com/MohammedAdhil/Youtube-Clone/assets/91864779/0962e7ab-493e-412c-a014-9795e6678e38)
 
 ### [Click to view Live Demo](https://zorotube.netlify.app/)
